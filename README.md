@@ -6,12 +6,18 @@ Repo. for CRUD operation with node js and Mongo with express framework. I've use
 
 ## Installation
 
-Install project with npm
+Install project with npm #### for client
 
 ```bash
   npm install 
   npm start 
 ```
+Install project with npm #### for server
+```bash
+  npm install
+  npm run devStart
+```
+
     
 ## Screenshots
 
