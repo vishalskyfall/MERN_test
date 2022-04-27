@@ -15,13 +15,13 @@ Install project with npm
 
 
 #### Home Page
-![Home Page](MERN_test/img/home.png)
+![Home Page](img/home.png)
 
 #### Update User
-![Update User](MERN_crud/img/update_fun.png)
+![Update User](img/update_fun.png)
 
 #### Delete
-![Delete Confirm](MERN_crud/img/delete_confirmation.png)
+![Delete Confirm](img/delete_confirmation.png)
 
 
 
